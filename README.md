@@ -2,8 +2,8 @@
 - 👀 me interesa el mundo de la programacion web , soy nueva en esto
 
 - 💞️ me gustaria colaborar en proyevtos
-- 📫 How to reach me ...
-- 😄 Pronouns: ...
+- 📫 How to reach me ...alejandraclaros99@hotmail.com
+- 😄 Pronouns: ...yael
 - ⚡ Fun fact: ...
 
 <!---
