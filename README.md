@@ -4,7 +4,7 @@
 - 💞️ me gustaria colaborar en proyevtos
 - 📫 How to reach me ...alejandraclaros99@hotmail.com
 - 😄 Pronouns: ...yael
-- ⚡ Fun fact: ...
+  
 
 <!---
 Yael8668/Yael8668 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
